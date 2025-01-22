@@ -126,7 +126,8 @@ section {
 }
 #yt-subscribe
   > span
-  > span.yt-subscription-button-subscriber-count-branded-horizontal.subscribed {
+  > span.yt-subscription-button-subscriber-count-branded-horizontal.subscribed,
+  body > div:nth-child(3) > div > div.QTrR4_AdSnqdMyHA8ZWB > a {
   display: none !important;
 }
 
